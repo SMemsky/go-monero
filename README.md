@@ -1,5 +1,9 @@
 # MONERO-API
 
+## Note
+This project is in slow development for my personal projects. Examples might or might not work.
+You can always open an issue in case of something or try contacting me in Telegram: @Dexter3000
+
 ### For exmple daemon:
 
 ```
